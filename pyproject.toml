@@ -1,0 +1,12 @@
+[project]
+name = "kaleido"
+version = "0.9.0"
+
+requires_python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["kaleido"]
